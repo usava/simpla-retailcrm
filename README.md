@@ -261,5 +261,4 @@ php /<путь к HTTP серверу>/simpla/ajax/export_to_ICML_retailCRM.php 
 ## Благодарности и ссылки ##
 * RetailCRM - https://www.retailcrm.ru/
 * Simpla CMS - http://simplacms.ru/
-* Разработчик интеграции - Олег Ехлаков <subspam@mail.ru>
-* Проект интеграции реализован при поддержке студии Ультравзор — http://ultravzor.com
+* Разработчик интеграции - Святослав Поляков <uptofly73@gmail.com>
